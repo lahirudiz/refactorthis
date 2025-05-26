@@ -1,5 +1,11 @@
+.vs/
 bin/
 obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
